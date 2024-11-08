@@ -1,14 +1,13 @@
 # Biological-and-Radiological-Dictionary-of-Radiomic-Features
 
-#### 1-Radiological/Biological Definition of Radiomics Features for Addressing Understandable AI Issues: #####################
+  #### Radiological/Biological Definition of Radiomics Features for Addressing Understandable AI Issues: #####################
 
 
+#################### Interpretable and Explainable Classification Task for Understandable AI Solutions ####################### 
 
-
-#### 2-Interpretable and Explainable Classification Task for Understandable AI Solutions: ####################################
-
-
-#### Strat of Classification Codes ############
+  Strat of Classification Codes    #
+# ======================= #
+Strat of Classification Codes    #
 # ======================= #
 
 # ## **Step 1: Automated Package Installation**
