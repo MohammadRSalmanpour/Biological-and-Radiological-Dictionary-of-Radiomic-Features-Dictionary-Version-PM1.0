@@ -3,10 +3,9 @@
   #### Radiological/Biological Definition of Radiomics Features for Addressing Understandable AI Issues: #####################
 
 
-#################### Interpretable and Explainable Classification Task for Understandable AI Solutions ####################### 
 
-  Strat of Classification Codes    #
-# ======================= #
+
+#################### Interpretable and Explainable Classification Task for Understandable AI Solutions ####################### 
 Strat of Classification Codes    #
 # ======================= #
 
