@@ -1,10 +1,5 @@
 # Biological-and-Radiological-Dictionary-of-Radiomic-Features
-
-   Biological-and-Radiological-Dictionary-of-Radiomic-Features
-
-       Radiological/Biological Definition of Radiomics Features for Addressing Understandable AI Issues:                      
-
-
+Ppaer Title: Biological and Radiological Dictionary of Radiomics Features: Addressing Understandable AI Issues in Personalized Prostate Cancer; Dictionary version 1.0
 
 
                      Interpretable and Explainable Classification Task for Understandable AI Solutions                         
