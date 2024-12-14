@@ -1,7 +1,29 @@
 # Biological-and-Radiological-Dictionary-of-Radiomic-Features
 Ppaer Title: Biological and Radiological Dictionary of Radiomics Features: Addressing Understandable AI Issues in Personalized Prostate Cancer; Dictionary version 1.0
 
+This study comprises two sections:
+i) Development of a radiological/biological dictionary of radiomics features.
+ii) Demonstration of the dictionary's practical application in addressing real-world problems, such as a classification task.
 
+
+#i) Development of a radiological/biological dictionary of radiomics features.
+The "Radiological and Biological Dictionary of Radiomics Features.xlsx" file contains four sheets:
+
+1) Sheet name: Relationship Dictionary_1 
+Semantic Feature and Radiomics Feature Relationships: This sheet outlines the connections between semantic features and their corresponding radiomics features.
+
+2) Sheet name: Radiomics Feature Definition_2 
+Radiomics Feature Definitions: This sheet provides detailed definitions of various radiomics features.
+
+3) Sheet name: PIRADS Definition_3
+PI-RADS Elements and Related Semantic Features: This sheet maps the PI-RADS elements to their associated semantic features.
+
+4) Sheet name: Semantic Feature -Definition_4 
+Semantic Visual Assessment Criteria Definitions: This sheet offers definitions for the semantic criteria used in visual assessments.
+
+   
+#ii) Demonstration of the dictionary's practical application in addressing real-world problems, such as a classification task:
+                     
                      Interpretable and Explainable Classification Task for Understandable AI Solutions                         
 Strat of Classification Codes     
   =======================  
