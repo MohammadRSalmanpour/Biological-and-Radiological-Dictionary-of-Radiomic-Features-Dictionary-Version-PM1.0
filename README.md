@@ -9,16 +9,16 @@ ii) Demonstration of the dictionary's practical application in addressing real-w
 #i) Development of a radiological/biological dictionary of radiomics features.
 The "Radiological and Biological Dictionary of Radiomics Features.xlsx" file contains four sheets:
 
-1) Sheet name: Relationship Dictionary_1 
+1) Sheet name: Relationships_1 
 Semantic Feature and Radiomics Feature Relationships: This sheet outlines the connections between semantic features and their corresponding radiomics features.
 
-2) Sheet name: Radiomics Feature Definition_2 
+2) Sheet name: Radiomics Definitions_2 
 Radiomics Feature Definitions: This sheet provides detailed definitions of various radiomics features.
 
-3) Sheet name: PIRADS Definition_3
+3) Sheet name: PIRADS Definitions_3
 PI-RADS Elements and Related Semantic Features: This sheet maps the PI-RADS elements to their associated semantic features.
 
-4) Sheet name: Semantic Feature -Definition_4 
+4) Sheet name: Semantic Definitions_4 
 Semantic Visual Assessment Criteria Definitions: This sheet offers definitions for the semantic criteria used in visual assessments.
 
    
