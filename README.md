@@ -1,5 +1,6 @@
 # Biological-and-Radiological-Dictionary-of-Radiomic-Features
-Paper Title: Biological and Radiological Dictionary of Radiomics Features: Addressing Understandable AI Issues in Personalized Prostate Cancer; Dictionary Version PM1.0
+"Paper Title: Biological and Radiological Dictionary of Radiomics Features: Addressing Understandable AI Issues in Personalized Prostate Cancer; Dictionary Version PM1.0".  
+
 ArXiv: https://arxiv.org/abs/2412.10967
 This study comprises two sections:
 i) Development of a radiological/biological dictionary of radiomics features.
