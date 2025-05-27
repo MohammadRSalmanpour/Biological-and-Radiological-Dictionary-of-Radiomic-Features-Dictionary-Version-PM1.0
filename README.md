@@ -1,5 +1,5 @@
 # Biological-and-Radiological-Dictionary-of-Radiomic-Features
-"Paper Title: Radiological and Biological Dictionary of Radiomics Features: Addressing Understandable AI Issues in Personalized Prostate Cancer; Dictionary Version PM1.0".  
+#"Paper Title: Radiological and Biological Dictionary of Radiomics Features: Addressing Understandable AI Issues in Personalized Prostate Cancer; Dictionary Version PM1.0".  
 
 ArXiv: https://arxiv.org/abs/2412.10967
 
@@ -165,7 +165,7 @@ Strat of Classification Codes
 
   - **Output:**
     - All configuration parameters are set and ready for use in the analysis.
-
+         #Note: hyperparameters selecet by grid search are listed in "Hyperparameters for Classifiers.rar"
   ---
 
      **Step 4: Data Reading, Shuffling, Class Selection, and Mapping**
